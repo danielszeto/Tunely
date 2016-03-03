@@ -1,2 +1,2 @@
 # Tunely
-A front-end app thatto displays a list of music albums.
+A front-end app that displays a list of music albums.
